@@ -2,8 +2,8 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 users = [
-    {"name": "Alice", "username": "alice_in_wonderland"},
-    {"name": "Bob", "username": "bob_the_builder"},
+    {"name": "한율조교", "username": "조교님 사...랑...합....니...다..."},
+    {"name": "이직", "username": "이현직"},
     {"name": "Charlie", "username": "charlie_brown"},
     {"name": "David", "username": "david_copperfield"},
     {"name": "Eve", "username": "eve_the_hacker"}
